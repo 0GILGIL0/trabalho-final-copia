@@ -1,0 +1,65 @@
+.container_about {
+    display: flex;
+    min-height: 80vh;
+    align-items: center; 
+}
+
+.container_about img {
+    width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-top: 20px;
+    
+}
+
+
+.est {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 400px;
+    width: 320px;
+}
+
+.container_about div div {
+    width:300px ;
+    height: 500px;
+    border-radius:100px;
+    margin-top: 100px;
+    background-color: black
+}
+
+
+
+.nome {
+    font-size: 24px;
+    padding: 0;
+    margin: 0;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.fun{
+    text-align: center;
+}
+.container_about2 {
+    display: flex;
+    min-height: 80vh;
+     
+}
+.link{
+    width: 50px;
+  height:50px;
+    padding:0px 0px ;
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+    height: 60px;
+    font-weight: 500;
+    border-radius: 30rem;
+    border: none;
+    transition: 1s;
+    background-color: transparent;
+    cursor: pointer;
+    background-color: transparent;
+}
